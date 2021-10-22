@@ -1,1 +1,1 @@
-# myArtWork
+# myArt
